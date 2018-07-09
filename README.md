@@ -12,15 +12,15 @@ It was just an experiment in my free time.
 
 ## How to start?
 * git clone https://github.com/black-stork/public-tasks-manager.git
-* front-end
-** cd client
-** npm install
-** npm run build
-** npm run start
 * back-end
-** cd server
-** npm install
-** node server.js 
+    * cd server
+    * npm install
+    * node server.js
+* front-end
+    * cd client
+    * npm install
+    * npm run build
+    * npm run start
 * open http://localhost:8080/
 
 ## Contacts
